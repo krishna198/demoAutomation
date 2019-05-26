@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.testng.annotations.*;
 
 import framework.baseClass;
-import pageObjects.Login;
+import pageOperations.Login;
 
 public class Scenarios extends baseClass {
 	

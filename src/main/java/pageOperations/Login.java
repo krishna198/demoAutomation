@@ -1,4 +1,4 @@
-package pageObjects;
+package pageOperations;
 
 import org.openqa.selenium.By;
 import org.testng.Assert;
